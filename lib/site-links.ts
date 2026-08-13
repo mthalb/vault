@@ -11,3 +11,10 @@ export const VIDEO_URL = 'https://perso-livid.vercel.app/'
 
 // Where the contact form's "Send message" button should go.
 export const CONTACT_EMAIL = 'mdtanver2008@outlook.com'
+
+
+// Your Instagram profile URL.
+export const INSTAGRAM_URL = 'https://instagram.com/your-handle'
+
+// Your Facebook profile/page URL.
+export const FACEBOOK_URL = 'https://facebook.com/your-handle'
