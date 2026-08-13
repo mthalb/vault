@@ -3,7 +3,7 @@
 Welcome to the Vault project!
 
 ## Overview
-[Add your project description here]
+[It leads people to my vault collection]
 
 ## Features
 - Feature 1
