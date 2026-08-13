@@ -53,8 +53,8 @@ export function ContactSection() {
             Get in touch
           </Heading>
           <Text style={{ color: 'rgba(255,255,255,0.9)', maxWidth: 320 }}>
-            Questions, feedback, or a link to swap in? Drop a message and
-            it&apos;ll land straight in my inbox.
+            Questions, feedback, or a idea to tell me? Drop a message and
+            it&apos;ll land straight to me.
           </Text>
         </Stack>
 
