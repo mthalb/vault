@@ -103,7 +103,7 @@ export function ContactSection() {
                 Instagram
               </Text>
               <Text as="span" weight="semibold" style={{ color: '#fff' }}>
-                Follow along
+                HELIXE
               </Text>
             </Stack>
           </a>
@@ -123,7 +123,7 @@ export function ContactSection() {
                 Facebook
               </Text>
               <Text as="span" weight="semibold" style={{ color: '#fff' }}>
-                Say hello
+                Mohammad Tanvir
               </Text>
             </Stack>
           </a>
