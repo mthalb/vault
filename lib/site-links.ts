@@ -14,7 +14,7 @@ export const CONTACT_EMAIL = 'mdtanver2008@outlook.com'
 
 
 // Your Instagram profile URL.
-export const INSTAGRAM_URL = 'https://instagram.com/your-handle'
+export const INSTAGRAM_URL = 'https://www.instagram.com/mth.tanvir/'
 
 // Your Facebook profile/page URL.
-export const FACEBOOK_URL = 'https://facebook.com/your-handle'
+export const FACEBOOK_URL = 'https://facebook.com/mdtanvir.albert/'
