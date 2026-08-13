@@ -22,18 +22,17 @@ export default function Page() {
           <Stack direction="vertical" gap="condensed">
             <Stack direction="horizontal" gap="condensed" align="center">
               <SparkleFillIcon size={24} />
-              <Label variant="accent">Dashboard</Label>
+              <Label variant="accent">HELIX VAULT</Label>
             </Stack>
             <Heading as="h1" variant="large">
-              Pick your vibe
+              VAULT BY TANVIR
             </Heading>
             <Text
               size="large"
               style={{ color: 'var(--fgColor-muted)', maxWidth: 560 }}
             >
-              Two shortcuts, one dashboard. Jump into music or video, switch
-              the color theme with the floating button, and say hello down
-              below.
+              Two sections, Jump into music or video,
+              and contact me below if you need.
             </Text>
           </Stack>
 
@@ -46,14 +45,14 @@ export default function Page() {
           >
             <BigActionButton
               href={MUSIC_URL}
-              label="Music"
-              description="Open your music destination"
+              label="HELIX MUSIC"
+              description="Open to get access of music"
               icon={UnmuteIcon}
             />
             <BigActionButton
               href={VIDEO_URL}
-              label="Video"
-              description="Open your video destination"
+              label="HELIX VIDEO"
+              description="Open to see videos"
               icon={VideoIcon}
             />
           </div>
