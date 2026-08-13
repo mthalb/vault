@@ -350,9 +350,10 @@ body {
    glow blobs), right panel is a neutral Primer surface holding the form.
    ----------------------------------------------------------------------- */
 
+
 .contact-card {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr);
+  grid-template-columns: minmax(0, 1fr);
   border-radius: 24px;
   overflow: hidden;
   border: 1px solid var(--borderColor-default);
@@ -360,11 +361,6 @@ body {
   box-shadow: 0 24px 60px -24px rgba(0, 0, 0, 0.35);
 }
 
-@media (max-width: 720px) {
-  .contact-card {
-    grid-template-columns: minmax(0, 1fr);
-  }
-}
 
 .contact-card__info {
   position: relative;
